@@ -1,5 +1,6 @@
-# 🔎 About Me:
-🔢 I'm currently working on data<br>🧠 Ask me about C#, database, web design and Unity<br>📩 How to reach me umutilhan621@gmail.com
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Umut</h1>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 
 ## 🌐 Socials:
