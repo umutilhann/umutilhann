@@ -94,7 +94,7 @@ OPEN_TO  Software Engineering Internships
 
 ### `$ ls featured-projects/`
 
-<details open>
+<details>
 <summary><b>🎮 Forest_Runner_Unity</b> — Unity endless runner</summary>
 <br>
 
