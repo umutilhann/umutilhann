@@ -156,7 +156,7 @@ OPEN_TO  Software Engineering Internships
 
 | | |
 |:---|:---|
-| **Stack** | HMTL, CSS, JavaScript, Node.js, Express.js, MySQL |
+| **Stack** | HTML, CSS, JavaScript, Node.js, Express.js, MySQL |
 | **Type** | Desktop automation system |
 | **Contribution** |  [@Enesdmkr](https://github.com/Enesdmkr) |
 
