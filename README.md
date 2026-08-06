@@ -102,7 +102,7 @@ OPEN_TO  Software Engineering Internships
 |:---|:---|
 | **Stack** | C#, Unity |
 | **Type** | Endless runner game |
-| **Contribution** | Full solo build — mechanics, scripting, packaging |
+| **Contribution** | [@mrbaydev01](https://github.com/mrbaydev01) - [@Ardassssss](https://github.com/Ardassssss) |
 
 🔗 [View Repository](https://github.com/umutilhann/Forest_Runner_Unity)
 
@@ -156,9 +156,9 @@ OPEN_TO  Software Engineering Internships
 
 | | |
 |:---|:---|
-| **Stack** | C#, CSS |
+| **Stack** | HMTL, CSS, JavaScript, Node.js, Express.js, MySQL |
 | **Type** | Desktop automation system |
-| **Contribution** | Full solo build |
+| **Contribution** |  [@Enesdmkr](https://github.com/Enesdmkr) |
 
 🔗 [View Repository](https://github.com/umutilhann/Ilac_Otomasyon_Sistemi)
 
