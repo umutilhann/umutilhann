@@ -283,7 +283,7 @@ open_to:
 [![itch.io](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=39FF14)](https://umt-tmu.itch.io/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=39FF14)](https://www.kaggle.com/umutilhann)
 
-*"Ship it, document it, iterate."*
+*"to get something you never had you have to do something you never did."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:39FF14,100:0D1117&height=100&section=footer)
 
