@@ -6,11 +6,9 @@
 
 <div align="center">
 
-```
-$ whoami
-```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+Politechnika+Bydgoska;Building+with+Unity+%2F+C%23+%E2%86%92+Game+Dev;Exploring+NLP+%2F+ML+%E2%80%94+spaCy%2C+scikit-learn%2C+TF-IDF;Shipping+projects+from+Web+to+Embedded+to+AI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+Omer+Halisdemir;Building+with+Unity+%2F+C%23+%E2%86%92+Game+Dev;Exploring+NLP+%2F+ML+%E2%80%94+spaCy%2C+scikit-learn%2C+TF-IDF;Shipping+projects+from+Web+to+Embedded+to+AI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -184,7 +182,8 @@ OPEN_TO  Software Engineering Internships
 
 ### `$ git log --oneline --graph`
 
-**Erasmus — Politechnika Bydgoska** · *Computer Engineering Exchange* · `Present`
+**Erasmus — Politechnika Bydgoska** · *Computer Engineering Exchange* · `Past`
+- **Omer Halisdemir University** · *Computer Engineering* · `Present`
 - Completing coursework and graded projects in English across AI/ML, web, and parallel computing
 - Built an AI course project: CV-to-job-listing matcher using TF-IDF/cosine similarity + spaCy, deployed on Streamlit
 - Produced a technical report on NFC/RFID systems (PN532 module, MIFARE Classic architecture)
@@ -210,7 +209,7 @@ OPEN_TO  Software Engineering Internships
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/Politechnika%20Bydgoska-Computer%20Engineering-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)
+![Education](https://img.shields.io/badge/Omer%20Halisdemir-Computer%20Engineering-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)
 
 </div>
 
@@ -237,16 +236,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ ./trophies.sh`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=umutilhann&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ### `$ ./activity-graph.sh`
 
 <div align="center">
@@ -257,20 +246,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ ./summary-cards.sh`
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umutilhann&theme=github_dark)
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umutilhann&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umutilhann&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umutilhann&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umutilhann&theme=github_dark" />
-
-</div>
-
----
 
 <div align="center">
 
