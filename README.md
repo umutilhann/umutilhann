@@ -236,16 +236,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ ./activity-graph.sh`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umutilhann&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true)
-
-</div>
-
----
-
 
 <div align="center">
 
